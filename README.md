@@ -15,6 +15,7 @@ The purpose of this project is to demonstrate practical troubleshooting methodol
 
 - Windows 10 
 - Windows 11
+- Window Server
 - VirtualBox
 
 ---
@@ -22,6 +23,7 @@ The purpose of this project is to demonstrate practical troubleshooting methodol
 ## Troubleshooting Scenarios
 
 | Scenario | Skills Demonstrated |
+| Account lock out | Restoration |
 |---|---|
 In Progress
 
