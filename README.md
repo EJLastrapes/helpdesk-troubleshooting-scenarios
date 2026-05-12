@@ -22,7 +22,6 @@ The purpose of this project is to demonstrate practical troubleshooting methodol
 
 ## Troubleshooting Scenarios
 
-| Scenario | Skills Demonstrated |
 | Account lock out | Restoration |
 |---|---|
 In Progress
